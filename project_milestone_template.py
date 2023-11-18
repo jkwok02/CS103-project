@@ -10,7 +10,7 @@
 
 # <font color="blue">
 #     
-# Put your answer here. Please don't delete the two HTML tags on either end of this paragraph. It's to make your answer blue so the TAs can easily spot it.
+# Hello
 # 
 # </font>
 
